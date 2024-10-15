@@ -1,2 +1,2 @@
-# BlackParrot RISC V processor and Its Use in Hardware Accelerator Concepts
-This is a master's group project, proof of concept (at its current stage) of a contributor to the Black Parrot Processor open source project.
+# Our own RISC-V Processor design
+This is a master's program group project, proof of concept (at its current stage) of a design of a RISC-V processor.
